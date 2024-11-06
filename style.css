@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.button1{
+    background-color: aqua;
+    padding: 6%
+}
+
+.button{
+    background-color: aqua;
+    padding: 2px;
+}
+
+.aa{
+    font-size: 380%;
+}
+
+img{
+    width: 8vw;
+    height: 14vh;
+}
